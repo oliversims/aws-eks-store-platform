@@ -373,7 +373,7 @@ Hostnames from the validated run:
 
 ## Working with AI
 
-| ![Cursor](docs/evidence/cursor-logo.jpg) |
+| ![Cursor](docs/evidence/cursor-logo.png) |
 |:---:|
 | Cursor |
 
