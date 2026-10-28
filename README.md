@@ -1,6 +1,10 @@
 # Store on Amazon EKS
 
 <p align="center">
+  <img src="docs/evidence/aws-logo.png" alt="AWS" width="140">
+</p>
+
+<p align="center">
   <strong>This repository presents the project.</strong><br>
   The source code is private and available on request.
 </p>
