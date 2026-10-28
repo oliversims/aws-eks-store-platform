@@ -1,8 +1,11 @@
 # Store on Amazon EKS
 
-DevOps portfolio · Oliver Sims
+<p align="center">
+  <strong>This repository presents the project.</strong><br>
+  The source code is private and available on request.
+</p>
 
-This repository presents the project. The source code is private and available on request.
+DevOps portfolio · Oliver Sims
 
 An eight-service store on Amazon EKS. Terraform owns the platform. GitHub Actions builds images into private ECR. Helm values in Git are the deploy contract. Argo CD reconciles the cluster. A published GitHub Release is the only path that changes what the cluster runs.
 
