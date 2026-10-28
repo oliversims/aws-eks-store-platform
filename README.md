@@ -1,4 +1,4 @@
-# Store on Amazon EKS
+<h1 align="center">Store on Amazon EKS</h1>
 
 <p align="center">
   <img src="docs/evidence/aws-logo.png" alt="AWS" width="140">
